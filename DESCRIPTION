@@ -1,0 +1,15 @@
+Package: msstrings
+Title: Extract and display peptide modifications form Spectronaut
+Version: 0.0.1
+Authors@R: 
+    person("Duong", "Nguyen", email = "dtn2@hood.edu", role = c("aut", "cre"))
+Description: Extract and display peptide modifications form Spectronaut.
+License: MIT + file LICENSE
+Imports:
+  Biostrings,
+  dplyr,
+  purrr,
+  stringr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
