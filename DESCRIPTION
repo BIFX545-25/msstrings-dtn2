@@ -1,4 +1,4 @@
-Package: msstrings
+Package: MSstrings
 Title: Extract and display peptide modifications form Spectronaut
 Version: 0.0.1
 Authors@R: 
